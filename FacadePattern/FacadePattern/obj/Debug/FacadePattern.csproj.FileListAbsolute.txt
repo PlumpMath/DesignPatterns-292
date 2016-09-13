@@ -1,0 +1,9 @@
+C:\Users\Christopher\Dropbox\Design Patterns\FacadePattern\FacadePattern\bin\Debug\FacadePattern.exe.config
+C:\Users\Christopher\Dropbox\Design Patterns\FacadePattern\FacadePattern\bin\Debug\FacadePattern.exe
+C:\Users\Christopher\Dropbox\Design Patterns\FacadePattern\FacadePattern\bin\Debug\FacadePattern.pdb
+C:\Users\Christopher\Dropbox\Design Patterns\FacadePattern\FacadePattern\obj\Debug\FacadePattern.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Dropbox\Design Patterns\FacadePattern\FacadePattern\obj\Debug\FacadePattern.Form1.resources
+C:\Users\Christopher\Dropbox\Design Patterns\FacadePattern\FacadePattern\obj\Debug\FacadePattern.Properties.Resources.resources
+C:\Users\Christopher\Dropbox\Design Patterns\FacadePattern\FacadePattern\obj\Debug\FacadePattern.csproj.GenerateResource.Cache
+C:\Users\Christopher\Dropbox\Design Patterns\FacadePattern\FacadePattern\obj\Debug\FacadePattern.exe
+C:\Users\Christopher\Dropbox\Design Patterns\FacadePattern\FacadePattern\obj\Debug\FacadePattern.pdb
