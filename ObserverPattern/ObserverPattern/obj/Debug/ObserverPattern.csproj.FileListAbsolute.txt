@@ -1,0 +1,18 @@
+C:\Users\Christopher\Dropbox\Computer Security and Ethics\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\Christopher\Dropbox\Computer Security and Ethics\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\Christopher\Dropbox\Computer Security and Ethics\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\Christopher\Dropbox\Computer Security and Ethics\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Dropbox\Computer Security and Ethics\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.Form1.resources
+C:\Users\Christopher\Dropbox\Computer Security and Ethics\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.Properties.Resources.resources
+C:\Users\Christopher\Dropbox\Computer Security and Ethics\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.GenerateResource.Cache
+C:\Users\Christopher\Dropbox\Computer Security and Ethics\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\Christopher\Dropbox\Computer Security and Ethics\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
+C:\Users\Christopher\Dropbox\Design Patterns\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\Christopher\Dropbox\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\Christopher\Dropbox\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
+C:\Users\Christopher\Dropbox\Design Patterns\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\Christopher\Dropbox\Design Patterns\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\Christopher\Dropbox\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Dropbox\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.Form1.resources
+C:\Users\Christopher\Dropbox\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.Properties.Resources.resources
+C:\Users\Christopher\Dropbox\Design Patterns\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.GenerateResource.Cache
