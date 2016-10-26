@@ -1,0 +1,9 @@
+C:\Users\Christopher\Dropbox\Design Patterns\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\Christopher\Dropbox\Design Patterns\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\Christopher\Dropbox\Design Patterns\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\Christopher\Dropbox\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Dropbox\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.Form1.resources
+C:\Users\Christopher\Dropbox\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.Properties.Resources.resources
+C:\Users\Christopher\Dropbox\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.GenerateResource.Cache
+C:\Users\Christopher\Dropbox\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\Christopher\Dropbox\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
