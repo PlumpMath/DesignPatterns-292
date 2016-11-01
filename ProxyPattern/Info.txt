@@ -1,0 +1,3 @@
+Bill Withdraw Limit 10   Starting Amount 1000
+Tom  Withdraw Limit 100  Starting Amount 2000
+Fred Withdraw Limit 1000 Starting Amount 3000
