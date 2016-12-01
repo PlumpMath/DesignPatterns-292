@@ -1,0 +1,9 @@
+C:\Users\Christopher\Dropbox\Design Patterns\StatePattern\StatePattern\bin\Debug\StatePattern.exe.config
+C:\Users\Christopher\Dropbox\Design Patterns\StatePattern\StatePattern\bin\Debug\StatePattern.exe
+C:\Users\Christopher\Dropbox\Design Patterns\StatePattern\StatePattern\bin\Debug\StatePattern.pdb
+C:\Users\Christopher\Dropbox\Design Patterns\StatePattern\StatePattern\obj\Debug\StatePattern.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Dropbox\Design Patterns\StatePattern\StatePattern\obj\Debug\StatePattern.Form1.resources
+C:\Users\Christopher\Dropbox\Design Patterns\StatePattern\StatePattern\obj\Debug\StatePattern.Properties.Resources.resources
+C:\Users\Christopher\Dropbox\Design Patterns\StatePattern\StatePattern\obj\Debug\StatePattern.csproj.GenerateResource.Cache
+C:\Users\Christopher\Dropbox\Design Patterns\StatePattern\StatePattern\obj\Debug\StatePattern.exe
+C:\Users\Christopher\Dropbox\Design Patterns\StatePattern\StatePattern\obj\Debug\StatePattern.pdb
