@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DecoratorPattern
+{
+    public class StrongHero : HeroDecorator
+    {
+        public StrongHero(Hero hero, string level) : base(hero)
+        {
+            this.level = level;
+        }
+
+        public override string getPowers()
+        {
+            return base.getPowers() + ", is strong enough to " + level; 
+        }
+    }
+}
